@@ -1,0 +1,6 @@
+a=((1,2),(4,3),(5,1),(3,4))
+print(a)
+a=dict(a)
+print(a)
+b=sorted(a.items(),key=lambda x:x[1])
+print(b)

@@ -1,0 +1,7 @@
+myf1=open('G:/pythonfile/tan.txt','r')
+myf2=open('G:/pythonfile/tan1.txt','w+')
+t1=myf1.read()
+print(t1)
+myf2.write(t1)
+myf1.close()
+myf2.close()

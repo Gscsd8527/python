@@ -1,0 +1,7 @@
+cnssAmount:0.0
+queryAmt:4.0
+bnkAmount:0.0
+amount:4.0
+p2pAmount:2.0
+queryAmtM3:1.0
+queryAmtM6:2.0

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<student>
+    <stu>
+        <name>谭振华</name>
+        <age>21</age>
+        <sex>男</sex>
+        <cj>100</cj>
+    </stu>
+    <stu>
+        <name>谭咏飞</name>
+        <age>19</age>
+        <sex>男</sex>
+        <cj>90</cj>
+    </stu>
+    <stu>
+        <name>谭咏军</name>
+        <age>18</age>
+        <sex>男</sex>
+        <cj>80</cj>
+    </stu>
+</student>

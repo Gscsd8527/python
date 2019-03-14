@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book id="1">
+        <bname>python入门</bname>
+        <price>20</price>
+        <author>牛柯</author>
+    </book>
+    <book id="2">
+        <bname>雾都孤儿</bname>
+        <price>50</price>
+        <author>雾都</author>
+    </book>
+    <book id="3">
+        <bname>西游记</bname>
+        <price>25</price>
+        <author>吴承恩</author>
+    </book>
+</books>

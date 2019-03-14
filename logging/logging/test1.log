@@ -1,0 +1,5 @@
+Mon, 30 Jul 2018 15:26:09 lx_3.py[line:9] DEBUG debug message
+Mon, 30 Jul 2018 15:26:09 lx_3.py[line:10] INFO info message
+Mon, 30 Jul 2018 15:26:09 lx_3.py[line:11] WARNING warning message
+Mon, 30 Jul 2018 15:26:09 lx_3.py[line:12] ERROR error message
+Mon, 30 Jul 2018 15:26:09 lx_3.py[line:13] CRITICAL critical message
